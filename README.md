@@ -1,4 +1,4 @@
-<div align="center" style="sieze: 40%;">
+<div align="center">
 
 ![alt text](icon.png)
 
