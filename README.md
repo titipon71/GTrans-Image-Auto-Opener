@@ -1,4 +1,8 @@
+<div align="center">
+
 ![alt text](icon.png)
+
+</div>
 
 # Google Translate Image Auto-Opener
 
