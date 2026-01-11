@@ -1,3 +1,5 @@
+![alt text](icon.png)
+
 # Google Translate Image Auto-Opener
 
 **Google Translate Image Auto-Opener** เป็นส่วนเสริมของ Google Chrome (Chrome Extension) ที่ช่วยอำนวยความสะดวกในการแปลรูปภาพบน Google Translate โดยจะทำการเปิดรูปภาพที่แปลเสร็จแล้วในแท็บใหม่ให้ทันที และสามารถตั้งค่าให้ Redirect กลับมาหน้าเดิมเพื่อเตรียมแปลรูปต่อไปได้โดยอัตโนมัติ
